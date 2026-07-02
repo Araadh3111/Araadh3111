@@ -9,4 +9,4 @@
 <!-- pixel tagline image — upload tagline.png to the repo -->
 ![hardware // software // aerospace](./tagline.png)
 
-[researca](https://research-copilot-sigma.vercel.app) · [bionix](https://github.com/Araadh3111/Bionix) · [x](https://x.com/araadhsingh1) · [email](mailto:destined4sky@gmail.com)
+
