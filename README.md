@@ -4,7 +4,7 @@
 <!--  LINKS — upload l_researca.png l_bionix.png l_x.png l_email.png -->
 <!-- ============================================================ -->
 
-[![banner](./rocket.jpg)](https://x.com/araadhsingh1)
+[![banner](./rocket.jpg)]
 
 ![hardware // software // aerospace](./tagline.png)
 
