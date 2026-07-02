@@ -19,21 +19,21 @@
 
 ---
 
-## 🛰️ About
+## About
 
-I'm **Araadh** — a 15-year-old solo builder from Punjab, India, working toward **aerospace engineering**. I learn by building real things, then figuring out the math from the wreckage.
+I'm **Araadh** — a 15-year-old solo builder from India, working toward **aerospace engineering**. I learn by building real things, then figuring out the math from the wreckage.
 
-- 🔭 **Long game:** Stanford / TU Delft → SpaceX / NASA
-- 🧠 **How I work:** physical intuition first, formal theory second
-- 🛠️ **Right now:** EMG prosthetics, thrust-vector control, AI research tooling
-- 🎓 **Teaching:** robotics, drones, IoT & Python to kids @ CareCubs
-- ⚡ **Inspiration:** if Tony Stark could build it in a cave, so can I (in a bedroom, with a 3D printer)
+-  **Long game:** Stanford / TU Delft → SpaceX / NASA
+-  **How I work:** physical intuition first, formal theory second
+-  **Right now:** EMG prosthetics, thrust-vector control, AI research tooling
+-  **Teaching:** robotics, drones, IoT & Python to kids @ CareCubs
+-  **Inspiration:** if Tony Stark could build it in a cave, so can I (in a bedroomz xD)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🦾 [Bionix](https://github.com/Araadh3111/Bionix) — EMG-Controlled Prosthetic Hand
+### [Bionix](https://github.com/Araadh3111/Bionix) — EMG-Controlled Prosthetic Hand
 Open-source, modular 3D-printed hand driven by muscle signals.
 `RP2040` · `MyoWare EMG` · `5× servos` · `brass-rod articulated fingers`
 > Researching whether an **adaptive** EMG classifier holds grip accuracy under muscle fatigue better than a fixed-threshold one.
@@ -50,10 +50,6 @@ Two-axis nested gimbal that steers a rocket by vectoring the exhaust.
 ### ⌨️ Luma — Custom Mechanical Macropad
 5-key cyberpunk macropad, designed board-up.
 `KiCad` · `Cherry MX` · `XIAO RP2040` · `0.91" OLED` · `QMK`
-
-### 🏏 Vocal Willow — Audio-First Cricket Trainer
-Real-time audio swing feedback for blind & visually-impaired athletes.
-`ESP32` · `IMU` · `Three.js` · `BLE`
 
 ### 🖥️ AraadhOS — OS-Style Portfolio
 A browser desktop as a portfolio. No frameworks, on purpose.
@@ -105,5 +101,5 @@ A browser desktop as a portfolio. No frameworks, on purpose.
 
 <div align="center">
 <br/>
-<sub>Built in a bedroom. Aimed at orbit.</sub>
+<sub>Hackclubber.</sub>
 </div>
