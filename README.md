@@ -1,12 +1,12 @@
 <!-- ============================================================ -->
-<!--  BANNER — replace the src with your own image.               -->
-<!--  1. Upload your banner to this repo (e.g. banner.png)        -->
-<!--  2. Change src to:  ./banner.png                             -->
-<!--  Recommended size: ~1280 x 360 px                            -->
+<!--  BANNER (your GIF)                                           -->
+<!--  1. Upload your gif to this repo, name it  banner.gif        -->
+<!--  2. The src below already points to ./banner.gif            -->
 <!-- ============================================================ -->
 
-[![banner](https://placehold.co/1280x360/0B0E14/E6B450?text=ARAADH)](https://x.com/araadhsingh1)
+[![banner](./banner.gif)](https://x.com/araadhsingh1)
 
-`hardware // software // aerospace`
+<!-- pixel tagline image — upload tagline.png to the repo -->
+![hardware // software // aerospace](./tagline.png)
 
 [researca](https://research-copilot-sigma.vercel.app) · [bionix](https://github.com/Araadh3111/Bionix) · [x](https://x.com/araadhsingh1) · [email](mailto:destined4sky@gmail.com)
